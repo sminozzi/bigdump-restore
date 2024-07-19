@@ -8,7 +8,7 @@ Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-# Woredpress free plugin to Install the free Bigdump (PHP script GUI Web Based Tool) to restore large and very large SQL database. No php Code edit and no linux command. #
+# Wordpress free plugin to Install the free Bigdump (PHP script GUI Web Based Tool) to restore large and very large SQL database. No php Code edit and no linux command. #
 
 == Description ==
 **BigDump Restore Plugin**
